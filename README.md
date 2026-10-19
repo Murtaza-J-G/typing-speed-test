@@ -1,15 +1,10 @@
-# ⌨️ Persian Typing Speed Test | تست سرعت تایپ فارسی
+# ⌨️ Typing Speed Test
 
-A simple and interactive web application designed to test and improve typing speed in **Persian (Farsi/Dari)**. Built with HTML, CSS, and JavaScript, this project provides a convenient way for users to practice Persian typing and evaluate their performance.
+A simple, interactive, and user-friendly **Typing Speed Test** web application built with **HTML, CSS, and JavaScript**. This project allows users to test and improve their typing skills by measuring their typing speed and accuracy.
 
 ## ✨ Features
 
-- **Persian Typing Practice:** Test your typing skills using Persian text.
-- **Typing Speed Measurement:** Measure typing speed in words per minute (WPM), if supported by the implementation.
-- **Accuracy Tracking:** Evaluate how accurately you type the given text.
-- **Real-Time Feedback:** Monitor your typing progress during the test.
-- **Persian Language Support:** Designed for Persian text and right-to-left (RTL) writing.
-- **Simple User Interface:** Clean and user-friendly design.
+- **Typing Speed Test:** Measure typing speed in words per minute (WPM).
 
 ## 🛠️ Technologies Used
 
@@ -19,23 +14,19 @@ A simple and interactive web application designed to test and improve typing spe
 
 ## 🎯 Project Goal
 
-The goal of this project is to help Persian-speaking users practice typing, measure their typing performance, and improve their speed and accuracy through an interactive web application.
+The goal of this project is to help users evaluate their typing speed, improve their accuracy, and practice typing through an interactive web experience.
 
 ## 🚀 Getting Started
 
-1. Clone or download this repository.
+1. Clone this repository.
 2. Open the project folder.
 3. Open `index.html` in your web browser.
-4. Start the test and practice typing Persian text.
-
-## 🤝 Contributing
-
-Suggestions, improvements, and contributions are welcome.
+4. Start the typing test and check your results.
 
 ## 📄 License
 
-Add your preferred open-source license if you intend to distribute this project under one.
+This project is open source and available for learning and personal use.
 
 ---
 
-**Built with ❤️ for Persian typing practice.**
+**Built with ❤️ using HTML, CSS, and JavaScript.**
